@@ -2,7 +2,7 @@
 # Stock Price Predictor Using SVR
 
 ## Description
-This project predicts stock prices using Support Vector Regression (SVR). The prediction is based on historical stock price data. Three different SVR models, each with a different kernel (RBF, Linear, and Polynomial), are trained on the data. The models' predictions are then visualized alongside the actual stock prices to evaluate their performance.
+This project predicts stock prices using Support Vector Regression (SVR). The prediction is based on historical stock price data. Three different SVR models, each with a different kernel (RBF, Linear, and Polynomial), are trained on the data. The models' predictions are then visualized alongside the actual stock prices to evaluate their performance. Made by Anirudh Nagasamudra and Joshua Chon.
 
 ## Installation
 Ensure you have the following Python libraries installed:
@@ -30,7 +30,7 @@ The chart produced by the script represents the stock prices over a series of da
 By comparing the prediction lines to the actual data points, you can gauge how well each model fits the historical stock price data.
 
 ## Contributing
-This is a basic project, and contributions are welcome! Feel free to fork the repository and submit pull requests.
+Feel free to fork the repository and submit pull requests.
 
 ## License
 This project is open source, under the MIT License.
